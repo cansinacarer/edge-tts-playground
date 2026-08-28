@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# uv virtualenv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated TTS output
+audio/
+
+# OS
+.DS_Store

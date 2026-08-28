@@ -1,0 +1,9 @@
+[project]
+name = "edge-tts-playground"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "edge-tts>=7.2.8",
+    "ipykernel>=7.3.0",
+    "ipywidgets>=8.1.9",
+]
